@@ -1,0 +1,398 @@
+h2{
+    text-align: center;
+}
+.free{
+    text-align: center;
+}
+.logo{
+    position: relative;
+    left: 600px;
+    top: 90px;
+}
+.english{
+    position: absolute;
+    top: -3em;
+    left: -6em;
+}
+.first{
+    display: inline-block;
+    position: relative;
+    left: 2em;
+    color: rgb(5, 5, 206);
+}
+.second{
+    display: inline-block;
+    color: rgb(29, 28, 28);
+}
+.espanol{
+    position: absolute;
+    top: 1em;
+    left: -10em;
+}
+.deutsch{
+    position: absolute;
+    left: -10em;
+    top: 6em;
+}
+.italiano{
+    position: absolute;
+    left: -8em;
+    bottom: -1em;
+}
+.protugues{
+    position: absolute;
+    bottom: -5em;
+    left: -5em;
+}
+.man{
+    position: absolute;
+    top: -3em;
+    /* right: 2em; */
+    left: 10em;
+}
+.mann{
+    position: absolute;
+    top: 1em;
+    left: 13em;
+}
+.mannn{
+    position: absolute;
+    top: 6em;
+    left: 14em;
+}
+.mannnn{
+    position: absolute;
+    bottom: -1em;
+    left: 13em;
+}
+.mannnnn{
+    position: absolute;
+    bottom: -5em;
+    left: 11em;
+}
+.search{
+    position: relative;
+}
+.border{
+    position: absolute;
+    border: 2px solid rgb(109, 107, 107);
+    width: 400px;
+    height: 40px;
+    top: -8em;    
+    left: 28em;
+}
+.select{
+    position: absolute;
+    top: -8em;
+    left: 45em;
+    padding: 10px;
+}
+.icon{
+    position: absolute;
+    border: 2px solid rgb(51,102,204);
+    height: 40px;
+    width: 90px;
+    left: 53em;
+    top: -8em;  
+    background-color: rgb(51,102,204);    
+}
+.img{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 6px;
+    left: 10px;
+}
+.hr{
+    position: absolute;
+    width: 5%;
+    top: -4em;
+    left: 450px;
+}
+.hrr{
+    position: absolute;
+    width: 5%;
+    top: -4em;
+    left: 874px;
+}
+.read{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    top: -4em;
+    left: 600px;
+    color: rgb(51,102,204) ;
+}
+.hrrr{
+    margin-top: 20em;
+}
+.down{
+    position: relative;
+}
+.wikimedia{
+    position: absolute;
+    left: 5em;
+    top: 2em;
+}
+.media{
+    width: 50px;
+    height: 50px;
+}
+.one{
+    display: inline-block;
+    position: relative;
+    /* left: 2em; */
+    color: rgb(13, 13, 14);
+}
+.two{
+    display: inline-block;
+    color: blue;
+}
+.text{
+    position: absolute;
+    left: 9em;
+    top: 2em;
+}
+.download{
+    position: relative;
+    border: 2px solid rgb(248,249,250);
+    width: 23em;
+    height: 10em;
+    left: 5em;
+    top: 10em;
+    background-color: rgb(248,249,250);
+}
+.pedia{
+    width: 50px;
+    height: 50px; 
+}
+.three{
+    display: inline-block;
+    position: relative;
+    color: blue;
+}
+.four{
+    display: inline-block;
+    color:black;
+}
+.test{
+    position: absolute;
+    bottom: 4em;
+    left: 4em;
+}
+.store{
+    position: relative;
+    border: 2px solid black;
+    background-color: black;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    top: 7em;
+    left: 8em;
+}
+.goggle{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    bottom: -5px;
+}
+.playstore{
+    position: absolute;
+    left: 40px;
+    bottom: -1px;
+}
+.get{
+    color: white;
+    font-size: 12px;
+}
+.playy{
+    color: white;
+}
+.apple{
+    position: relative;
+    border: 2px solid black;
+    background-color: black;
+    width: 120px;
+    height: 30px;
+    border-radius: 5px;
+    left: 19em;
+    bottom: -77px;
+}
+.arrange{
+    position: relative;
+}
+.imgg{
+    width: 50px;
+    height: 5opx;
+    position: absolute;
+    bottom: 8em;
+    left: 38em;
+}
+.five{
+    display: inline-block;
+    position: relative;
+    color: blue;
+    right: 3px;
+}
+.six{
+    display: inline-block;
+    color:black;
+}
+.common{
+    position: absolute;
+    /* bottom: -10em; */
+    left: 42em;
+    top: -11em;
+}
+.imggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -5em;
+    left: 56em;
+}
+.wikiviyage{
+    position: absolute;
+    bottom: -5em;
+    left: 60em;
+}
+.imgggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -5em;
+    left: 71em;
+}
+.wikitionary{
+    position: absolute;
+    bottom: -5em;
+    left: 75em;
+}
+.imggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -12em;
+    left: 38em;
+}
+.wikibooks{
+    position: absolute;
+    left: 42em;
+    bottom: -12em;
+}
+.imgggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -12em;
+    left: 56em;
+}
+.wikinews{
+    position: absolute;
+    left: 60em;
+    bottom: -12em;
+}
+.imggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -12em;
+    left: 71em;
+}
+.wikidata{
+    position: absolute;
+    left: 75em;
+    bottom: -12em;
+}
+.imgggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -18em;
+    left: 38em;
+}
+.wikiuniversity{
+    position: absolute;
+    left: 42em;
+    bottom: -18em;
+}
+.imggggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -19em;
+    left: 56em;
+}
+.wikiquote{
+    position: absolute;
+    left: 60em;
+    bottom: -18em;
+}
+.imgggggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -19em;
+    left: 71em;
+}
+.mediawiki{
+    position: absolute;
+    left: 75em;
+    bottom: -19em;
+}
+.imggggggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -24em;
+    left: 38em;
+}
+.wikisource{
+    position: absolute;
+    left: 42em;
+    bottom: -24em;
+}
+.imgggggggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -30em;
+    left: 38em;
+}
+.metawiki{
+    position: absolute;
+    left: 42em;
+    bottom: -30.5em;
+}
+.imggggggggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -25em;
+    left: 56em;
+}
+.wikispecies{
+    position: absolute;
+    left: 60em;
+    bottom: -24.5em;  
+}
+.imgggggggggggggg{
+    position: absolute;
+    width: 50px;
+    height: 5opx;
+    bottom: -25em;
+    left: 71em;
+}
+.wikifunctions{
+    position: absolute;
+    left: 75em;
+    bottom: -25em; 
+}
+.last{
+    text-align: center;
+    /* text-decoration: none; */
+}
+.last a{
+    text-align: center;
+    text-decoration: none;
+}
